@@ -10,6 +10,12 @@ I also blog about my adventures in cloud to help the community!
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-roberts8939/)
 
 
+![](https://github-readme-stats.vercel.app/api?username=andyr8939)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andyr8939)
+
+&uarr; Thats my blog created with Hugo on GitHub Pages
 <!---
 andyr8939/andyr8939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
