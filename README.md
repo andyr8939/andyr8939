@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Andy Roberts, a Cloud Engineer based in Auckland, New Zeland!
-- 👀 I’m interested in all things Azure and Cloud, automation, infrastructure as code, anything and everything cloud related really!
-- 🌱 I'm currently working on upskilling myself in Azure Architecturem, Kubernetes, Service Mesh and I really want to teach myself Python at some stage.
-- 📫 You can reach me on [Twitter](https://twitter.com/andyr2319) or [LinkedIn](https://www.linkedin.com/in/andy-roberts8939/)
+Hi, I’m Andy Roberts, a Cloud Engineer based in Auckland, New Zealand!
+
+I’m interested in all things Cloud, automation, infrastructure as code, anything and everything cloud related really!  I mainly work on the DevOps and Infra side of Azure so spend a lot of my time with automating with Powershell, Azure CLI, Terraform, Kubernetes etc, and I am hoping to learn Python soon to.
+
+I also blog about my adventures in cloud to help the community!
+
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andyroberts.nz/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andyr2319) 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andyr8939@gmail.com) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-roberts8939/)
+
 
 <!---
 andyr8939/andyr8939 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
