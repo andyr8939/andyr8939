@@ -1,4 +1,4 @@
-![cover image](coverimage.jpg)
+![cover image](cover.jpg)
 
 ### Hi, I’m Andy Roberts, a Cloud Engineer based in Auckland, New Zealand!
 
